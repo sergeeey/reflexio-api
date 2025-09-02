@@ -1,0 +1,8 @@
+openai>=1.40.0
+supabase>=2.4.0
+tiktoken>=0.7.0
+python-dotenv>=1.0.1
+pandas>=2.2.2
+requests>=2.32.3
+fastapi>=0.115.0
+uvicorn>=0.30.0
